@@ -14,7 +14,7 @@ requirements = parse_requirements("requirements.txt", session="")
 
 setup(
 	name='property',
-	version=version,
+	version='0.0.1',
 	description='Property Management',
 	author='Opensource Solutions Philippines',
 	author_email='info@ossph.com',
